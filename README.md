@@ -100,4 +100,4 @@ The goal of this assignment is to develop a Python-based data analytics applicat
 
 ---
 
-This README provides a high-level overview and guide for completing the assignment. Adjust specific details based on your implementation.
+
